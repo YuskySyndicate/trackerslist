@@ -27,7 +27,7 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 * Any of the trackers not working properly? => [Open a new issue](https://github.com/yusrilsyahruddin/trackerslist/issues/new)
 
 ##### Contact
-ngosang [@] hotmail [.es]
+yusrilsyahruddin [@] gmail [.com]
 
 ##### Third-party tools
 * [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) to add these trackers to your .torrent files
