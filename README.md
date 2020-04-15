@@ -4,7 +4,7 @@ Updated list of public BitTorrent trackers
 #### Updated: 2020-04-15
 *These lists are automatically updated every day:*
 
-* trackers_best (20 trackers) => [link](https://yusrilsyahruddin.github.io/trackerslist/trackers_best.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt)
+* trackers_best (20 trackers) => [link](https://yusrilsyahruddin.github.io/trackerslist/trackers_best.txt) / [mirror](https://raw.githubusercontent.com/yusrilsyahruddin/trackerslist/master/trackers_best.txt)
 * trackers_all (97 trackers) => [link](https://yusrilsyahruddin.github.io/trackerslist/trackers_all.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt)
 * trackers_all_udp (49 trackers) => [link](https://yusrilsyahruddin.github.io/trackerslist/trackers_all_udp.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt)
 * trackers_all_http (35 trackers) => [link](https://yusrilsyahruddin.github.io/trackerslist/trackers_all_http.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt)
