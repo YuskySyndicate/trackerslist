@@ -1,4 +1,4 @@
-# ngosang/trackerslist
+# yusrilsyahruddin/trackerslist
 Updated list of public BitTorrent trackers
 
 #### Updated: 2020-04-15
